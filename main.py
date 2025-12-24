@@ -9,7 +9,7 @@ def greet_user(username):
 
     :param username: Имя пользователя
     """
-    print(f"Приветствуем вас, {username}!")
+    print(f"Приветствуем Вас, {username}!!!!!")
 
 # Основная точка входа в приложение
 if __name__ == "__main__":
